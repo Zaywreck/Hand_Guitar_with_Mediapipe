@@ -1,0 +1,5 @@
+# Ignore venv files
+Include
+Lib
+Scripts
+share
